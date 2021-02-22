@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "https://i.ibb.co/1vStVS2/uthappizza.png",
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/hawaiian-pizza-16-1200.jpg",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "image": "https://cdn.shopify.com/s/files/1/0090/0320/4704/products/image019_1200x1200.jpg?v=1562067975",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "image": "https://img.buzzfeed.com/video-api-prod/assets/31b90eeee94246ed81ae374ae37e2e51/BFV8279_DoughnutChips-ThumbFB.jpg",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
+      "image": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Triple-Berry-No-Bake-Cheesecake_EXPS_TOHcom19_138951_B01_30_6b.jpg",
       "category": "dessert",
       "label": "",
       "price": "2.99",
@@ -223,7 +223,7 @@
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "image": "https://explorehanoi.com/wp-content/uploads/2019/09/cheft-dzung-buffet-hanoi.jpg",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -234,7 +234,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "image": "https://cdn-images.zety.com/pages/photographer_resume_3.jpg",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -243,7 +243,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/alberto.png",
+      "image": "https://cdn-images.zety.com/pages/photographer_resume_3.jpg",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -252,7 +252,7 @@
     {
       "id": 2,
       "name": "Agumbe Tang",
-      "image": "images/alberto.png",
+      "image": "https://cdn-images.zety.com/pages/photographer_resume_3.jpg",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -261,7 +261,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "image": "https://cdn-images.zety.com/pages/photographer_resume_3.jpg",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
