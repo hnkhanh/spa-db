@@ -209,21 +209,13 @@
       "comment": "This is freaking awesome!",
       "date": "2021-02-20T16:23:32.632Z",
       "id": 20
-    },
-    {
-      "dishId": 2,
-      "rating": "4",
-      "author": "Khanh Ngoc Hong",
-      "comment": "testing",
-      "date": "2021-02-22T06:03:56.051Z",
-      "id": 21
     }
   ],
   "promotions": [
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      "image": "https://i.ibb.co/K688h8k/buffet.jpg",
+      "image": "https://i.ibb.co/tBthQ2x/buffet.jpg",
       "label": "New",
       "price": "19.99",
       "featured": true,
